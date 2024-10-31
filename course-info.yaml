@@ -1,0 +1,9 @@
+type: marketplace
+title: Data_Visualization
+language: English
+summary: "Lesson on how to create single bar chart showing the number of games per\
+  \ 4 specific gaming platforms (PS4, XOne, PC and WiiU) by game genre. "
+programming_language: Python
+environment: unittest
+content:
+  - lesson1
